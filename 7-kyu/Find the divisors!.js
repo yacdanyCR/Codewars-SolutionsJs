@@ -15,4 +15,4 @@ function divisors(integer) {
     return diviNumbers.length > 0 ? diviNumbers : `${integer} is prime`
 };
 
-console.log(divisors(13))
+console.log(divisors(12))
