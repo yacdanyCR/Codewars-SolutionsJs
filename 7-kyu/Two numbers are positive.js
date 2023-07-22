@@ -15,3 +15,5 @@ function twoArePositive(a, b, c) {
 
     return arr.filter((el) => el > 0).length === 2
 }
+
+console.log(Math.pow(4, 5))
