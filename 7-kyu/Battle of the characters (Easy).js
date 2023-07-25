@@ -41,4 +41,3 @@ function battle(x, y) {
 }
 
 console.log(battle("D", "D"))
-console.log(2 + 0.5)
